@@ -1,6 +1,6 @@
 # FLUIDIC_CONTROL
 Programmable Fluidic Pumping System 
 
-![picture]() 
+![picture](https://github.com/GabStP13rr3/FLUIDIC_CONTROL/blob/main/Prototype.png) 
 
 
